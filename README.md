@@ -8,7 +8,7 @@
 
 > __**Mes projets 🖥️ :**__
 
-❌ ┇ `morpion.py`
+❌ ┇ `morpion.py`\n
 🐍 ┇ `snake.py`
 🤖 ┇ `bot_discord.py`
 💵 ┇ `economy_bot.py`
