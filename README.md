@@ -4,7 +4,7 @@
 
 > __**Me contacter 📬 :**__
 
-*Pour me contacter veuillez envoyer un message à *`> 6'ZetMine™#0720`*.*
+*Pour me contacter veuillez envoyer un message à *`> 6'ZetMine™#0007`*.*
 
 > __**Mes projets 🖥️ :**__
 
