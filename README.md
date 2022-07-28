@@ -1,12 +1,12 @@
-## > __**About me ❓ :**__
+## __**About me ❓ :**__
 
 *Je suis un dévloppeur python 🐍 et discord 🤖.*
 
-> __**Me contacter 📬 :**__
+## __**Me contacter 📬 :**__
 
 *Pour me contacter veuillez envoyer un message à *`> 6'ZetMine™#0007`*.*
 
-> __**Mes projets 🖥️ :**__
+## __**Mes projets 🖥️ :**__
 
     ❌ ┇ morpion.py
     🐍 ┇ snake.py
