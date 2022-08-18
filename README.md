@@ -13,3 +13,8 @@
     🤖 ┇ bot_discord.py
     💵 ┇ economy_bot.py
     💻 ┇ devtools.py
+
+
+## __**My partner 🤝 :**__
+
+@fouderix
