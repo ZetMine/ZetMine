@@ -14,7 +14,3 @@
     💵 ┇ economy_bot.py
     💻 ┇ devtools.py
 
-
-## __**My partner 🤝 :**__
-
-@fouderix
