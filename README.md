@@ -1,16 +1,11 @@
-## __**About me ❓ :**__
+***
+> **Who am I ?**
 
-*Je suis un dévloppeur python 🐍 et discord 🤖.*
+* I'm a french developer (Yes, baguette baguette )
+* I mainly work on JavaScript, HTML and a bit of Java.
+***
+> **My projects:**
 
-## __**Me contacter 📬 :**__
-
-*Pour me contacter veuillez envoyer un message à *`> 6'ZetMine™#0007`*.*
-
-## __**Mes projets 🖥️ :**__
-
-    ❌ ┇ morpion.py
-    🐍 ┇ snake.py
-    🤖 ┇ bot_discord.py
-    💵 ┇ economy_bot.py
-    💻 ┇ devtools.py
-
+* EmojisPlus (Spigot plugin for Minecraft)
+* InfinityBlock Studios
+***
