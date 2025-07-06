@@ -2,10 +2,10 @@
 > **Who am I ?**
 
 * I'm a french developer (Yes, baguette baguette )
-* I mainly work on JavaScript, HTML and a bit of Java.
+* I mainly work on JavaScript, HTML and Java.
+  * React Native, PaperMC
 ***
 > **My projects:**
 
-* EmojisPlus (Spigot plugin for Minecraft)
-* InfinityBlock Studios
+* crumb (Minecraft network)
 ***
